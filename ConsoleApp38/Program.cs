@@ -5,6 +5,7 @@ namespace CRUDDemo
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             Class1 C = new Class1();
